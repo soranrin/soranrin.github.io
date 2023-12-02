@@ -1,3 +1,5 @@
 # soranrin.github.io
 
-# bokiron
+# 簿記論
+
+  ## 簿記の概要
